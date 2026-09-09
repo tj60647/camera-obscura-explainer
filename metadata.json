@@ -1,0 +1,6 @@
+{
+  "name": "Camera Obscura: Interactive Optics Diagram",
+  "description": "A clean, interactive scientific diagram explaining the camera obscura, light inversion, and practical DIY build criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
